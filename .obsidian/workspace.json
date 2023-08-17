@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "876a491d4c75331c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dec50da972c3880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a74e1e17955e89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Postgres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e0f384ff64b21be",
+    "type": "split",
+    "children": [
+      {
+        "id": "226982a37a7975e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0044a84fb67fd98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af8e4de9bf3ac156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "1234",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a973393b5473bbfa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcf19a79c4d1f58b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "86670b3a6ca401c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4bdb54acf5ad4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c666c4a31cdb3a4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL/Postgres.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78322dfd9543320a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/Postgres.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a5a88d23eab630a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdc89f0d64d94bee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/Postgres.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a74e1e17955e89e",
+  "lastOpenFiles": [
+    "Git.md",
+    "Python/cheat sheet.md",
+    "README.md",
+    "Docker.md",
+    "Python/Debugging.md",
+    "VS code Sortcuts.md",
+    "Virtual Environment.md",
+    "Ubuntu Shortcuts.md",
+    "Terminal.md",
+    "SQL/Postgres.md",
+    "Django.md",
+    "SQL/SQL.md",
+    "Python/Requirements.txt.md",
+    "HTML.md",
+    "Python/Terminology.md",
+    "Python/functions.md",
+    "Python/common functions.md",
+    "Python/commands.md",
+    "mypy.md",
+    "Python/Import.md",
+    "SQL",
+    "Postman.md",
+    "Untitled.md",
+    "Unit Testing.md",
+    "tmux.md",
+    "Soft Skills.md",
+    "Regex.md",
+    "media_files/Python-cheat-sheet.pdf",
+    "media_files",
+    "media_files/keyboard-shortcuts-linux.pdf",
+    "media_files/Screenshot from 2023-03-17 16-45-22.png",
+    "media_files/python_function_arguments_types.jpg",
+    "media_files/python_function_argument_and_parameter.jpg",
+    "media_files/Screenshot from 2023-02-22 14-26-19.png",
+    "media_files/Screenshot from 2023-02-20 19-41-08.png",
+    "python_function_arguments_types 1.jpg"
+  ]
+}

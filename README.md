@@ -1,0 +1,1 @@
+Notes form Spencer in DCI Python course
