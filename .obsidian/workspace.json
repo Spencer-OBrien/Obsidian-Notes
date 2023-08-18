@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfed1046d0ce8984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f90f0e0a9f487b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Installs.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Installs.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Installs.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Installs.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,10 +156,13 @@
   },
   "active": "f90f0e0a9f487b96",
   "lastOpenFiles": [
-    "Django/Commands.md",
     "Django/Installs.md",
-    "Virtual Environment.md",
+    "Django/Commands.md",
     "Django",
+    "Python/Django/Installs.md",
+    "Python/Django/Commands.md",
+    "Python/Django",
+    "Virtual Environment.md",
     "Markdown.md",
     "Untitled.canvas",
     "SQL/Postgres.md",
@@ -195,8 +185,6 @@
     "Python/Import.md",
     "SQL",
     "Postman.md",
-    "Untitled.md",
-    "Unit Testing.md",
     "media_files/Python-cheat-sheet.pdf",
     "media_files",
     "media_files/keyboard-shortcuts-linux.pdf",
