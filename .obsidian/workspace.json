@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0dec50da972c3880",
+        "id": "f2a408374c31f2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a74e1e17955e89e",
+            "id": "cfed1046d0ce8984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Postgres.md",
+                "file": "Django/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f90f0e0a9f487b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Installs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1234",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Postgres.md",
+                "file": "Django/Installs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Postgres.md",
+                "file": "Django/Installs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Postgres.md"
+                "file": "Django/Installs.md"
               }
             }
           }
@@ -155,19 +167,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a74e1e17955e89e",
+  "active": "f90f0e0a9f487b96",
   "lastOpenFiles": [
+    "Django/Commands.md",
+    "Django/Installs.md",
+    "Virtual Environment.md",
+    "Django",
+    "Markdown.md",
+    "Untitled.canvas",
+    "SQL/Postgres.md",
     "Git.md",
     "Python/cheat sheet.md",
     "README.md",
     "Docker.md",
     "Python/Debugging.md",
     "VS code Sortcuts.md",
-    "Virtual Environment.md",
     "Ubuntu Shortcuts.md",
     "Terminal.md",
-    "SQL/Postgres.md",
-    "Django.md",
     "SQL/SQL.md",
     "Python/Requirements.txt.md",
     "HTML.md",
@@ -181,9 +197,6 @@
     "Postman.md",
     "Untitled.md",
     "Unit Testing.md",
-    "tmux.md",
-    "Soft Skills.md",
-    "Regex.md",
     "media_files/Python-cheat-sheet.pdf",
     "media_files",
     "media_files/keyboard-shortcuts-linux.pdf",
