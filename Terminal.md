@@ -1,5 +1,5 @@
 ```shell
-man
+man ls
 ```
 
 to open a manual
@@ -34,7 +34,7 @@ touch
 creat a file
 
 ```shell
-less
+less filename.txt
 ```
 open file
 
@@ -46,7 +46,7 @@ make directory
 ```shell
 cp dir1/myfile.txt dir2/
 ```
-copy filr from dir1 to dir2
+copy file from dir1 to dir2
 
 ```shell
 mv readme.md target
@@ -57,6 +57,16 @@ readme.md will be moved to target
 ls *.txt
 ```
 list only *.txt
+
+```bash
+rm filename.txt
+```
+remove file 
+
+```bash
+rm -r dirname
+```
+remove dir
 
 ```shell
 code .

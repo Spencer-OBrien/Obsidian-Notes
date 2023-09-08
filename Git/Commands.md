@@ -88,5 +88,7 @@ git push -u origin 'BranchName'
 ```
 update the online repo
 
+```bash
+git rm --cashed **/*.pyc
 ```
-```
+to remove something that was pushed

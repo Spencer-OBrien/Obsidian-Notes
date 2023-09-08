@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a408374c31f2e7",
+        "id": "67f2c313b6034896",
         "type": "tabs",
         "children": [
           {
-            "id": "f90f0e0a9f487b96",
+            "id": "9787f68416eb231c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ubuntu Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ubuntu Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ubuntu Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ubuntu Shortcuts.md"
               }
             }
           }
@@ -154,37 +154,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f90f0e0a9f487b96",
+  "active": "9787f68416eb231c",
   "lastOpenFiles": [
-    "Django/Installs.md",
-    "Django/Commands.md",
-    "Django",
+    "VS code Sortcuts.md",
+    "Git/SSH Key.md",
+    "Soft Skills.md",
+    "Python/Django/Installs.md",
+    "Python/Django/Commands.md",
+    "AWS/Acronyms.md",
+    "AWS/EC2 Dployment.md",
+    "Terminal.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Git/Commands.md",
+    "Git",
+    "AWS",
+    "tmux.md",
+    "Python/Requirements.txt.md",
+    "SQL/Postgres.md",
+    "Python/Virtual Environment.md",
+    "README.md",
+    "Python/Django",
     "Python/Django/Installs.md",
     "Python/Django/Commands.md",
     "Python/Django",
-    "Virtual Environment.md",
     "Markdown.md",
-    "Untitled.canvas",
-    "SQL/Postgres.md",
-    "Git.md",
     "Python/cheat sheet.md",
-    "README.md",
     "Docker.md",
     "Python/Debugging.md",
-    "VS code Sortcuts.md",
     "Ubuntu Shortcuts.md",
-    "Terminal.md",
     "SQL/SQL.md",
-    "Python/Requirements.txt.md",
     "HTML.md",
     "Python/Terminology.md",
     "Python/functions.md",
-    "Python/common functions.md",
-    "Python/commands.md",
-    "mypy.md",
-    "Python/Import.md",
     "SQL",
-    "Postman.md",
     "media_files/Python-cheat-sheet.pdf",
     "media_files",
     "media_files/keyboard-shortcuts-linux.pdf",

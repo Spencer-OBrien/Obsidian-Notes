@@ -12,3 +12,7 @@ Django Rest Framework
 pip install django-html_sanitizer
 ```
 Django html sanitizer
+
+```bash
+pip install django-allauth
+```
